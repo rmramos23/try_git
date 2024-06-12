@@ -13,9 +13,11 @@ int main() {
     resultmul = val1 * val2;
     //div 2
     resultdiv = val1/val2;
-    printf("\n SUM: &d" , resultadd);
-    printf("\n DIF: &d" , resultsub);
-    printf("\n PROD: &d" , resultmul);
-    printf("\n QUO: &d" , resultdiv);
+    printf("\n SUM: %d" , resultadd);
+    printf("\n DIF: %d" , resultsub);
+    printf("\n PROD: %d" , resultmul);
+    printf("\n QUO: %d" , resultdiv);
+
+
     return 0;
 }
