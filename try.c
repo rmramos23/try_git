@@ -19,7 +19,9 @@ int main() {
     printf("\n DIF: %d" , resultsub);
     printf("\n PROD: %d" , resultmul);
     printf("\n QUO: %d" , resultdiv);
-    
+    ///////////////////////////////////////changes
+    ///////////////////////////////////////changes
+    ///////////////////////////////////////changes
     printf("\n");
 
     return 0;
