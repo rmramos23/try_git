@@ -13,8 +13,5 @@ int main() {
     printf("%c\n", ch);
     printf("%s\n", s);
     printf("%s\n", sen);
-    printf("try\n");
-    
-    printf("try again\n");
     return 0;
 }
