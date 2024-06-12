@@ -18,7 +18,7 @@ int main() {
     printf("\n SUM: %d" , resultadd);
     printf("\n DIF: %d" , resultsub);
     printf("\n PROD: %d" , resultmul);
-    printf("\n QUO: %d" , resultdiv);
+    printf("\n QUO: %f" , resultdiv);
     ///////////////////////////////////////changes
     ///////////////////////////////////////changes
     ///////////////////////////////////////changes
